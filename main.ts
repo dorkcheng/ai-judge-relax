@@ -20,7 +20,7 @@ import { join } from 'node:path';
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 const TEXT = [
-  'The dome of the old observatory turns so slowly that you only notice it has moved when a different star is standing in the frame.',
+  'The dome of the old observatory turns so slowly that you only notice it has moved when another star has drifted into the frame.',
   'The astronomer has gone home. The telescope is pointed at a patch of sky between two bright stars, where there is almost nothing to see, and it is in no hurry to move on.',
   'The chair by the desk is still warm. A pencil lies where it was put down, beside a notebook open to a page of numbers that no longer need checking.',
   'Outside, the hill is dark all the way down to the road, and the road is empty. Far below, one porch light is burning, and no one is coming or going.',
